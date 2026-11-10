@@ -444,7 +444,7 @@ LANGUAGE DROPDOWN — FIX #1: Left-to-right animation
   top: 0;
   height: 3px;
   border-radius: 3px;
-  background: #6366F1;
+  background: #B0246E;
   pointer-events: none;
   transform-origin: left center;
   transform: translateY(var(--y, 0px)) scaleX(0);
